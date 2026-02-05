@@ -18,7 +18,13 @@
 - **😊 Custom Reactions**: (Beta) Tùy chỉnh cảm xúc phản ứng nhanh.
 - **🛠️ UI Enhancements**: Tinh chỉnh giao diện gọn gàng, hiện đại hơn.
 
-## � Giao Diện (Screenshots)
+## 📸 Giao Diện (Screenshots)
+
+<p align="center">
+  <img src="assets/Interface.png" alt="Zalord Interface Overview" width="90%">
+  <br>
+  <b>Giao diện tổng quan Zalord với các tính năng tùy biến</b>
+</p>
 
 <p align="center">
   <img src="assets/installer.png" alt="Zalord Installer" width="45%">
