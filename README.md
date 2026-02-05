@@ -54,6 +54,9 @@
 1.  Giải nén source code.
 2.  Copy file `app.asar` vào thư mục resources của Zalo (thường là `%LOCALAPPDATA%\Programs\Zalo\Zalo-xx.xx.xx\resources\`).
 
+> [!IMPORTANT]
+> **Nếu menu Zalord chưa hiển thị sau khi cài đặt, hãy TẮT HOÀN TOÀN Zalo và MỞ LẠI để load mod!**
+
 ## 🔄 Gỡ Cài Đặt / Khôi Phục
 
 Nếu bạn muốn quay lại Zalo gốc:
